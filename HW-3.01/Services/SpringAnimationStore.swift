@@ -71,6 +71,4 @@ final class SpringAnimationStore {
         "easeOutBack",
         "easeInOutBack"
     ]
-    
-    private init() {}
 }
